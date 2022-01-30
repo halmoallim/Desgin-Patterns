@@ -1,7 +1,7 @@
 * Name: Hassan Al Moallim
 
 
-* Quiz : Desgin Pattersn 
+* Quiz : Desgin Patterns 
 
 
 * Quiz result: 
